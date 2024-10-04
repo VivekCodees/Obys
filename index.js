@@ -158,7 +158,7 @@ function sheryAnimation() {
 
 loadingAnimation();
 cursorAnimation();
-locomotiveAnimation();
+// locomotiveAnimation();
 sheryAnimation();
 
 
